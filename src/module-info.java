@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author waseyquraishi
+ *
+ */
+module myfirsttraining {
+}
